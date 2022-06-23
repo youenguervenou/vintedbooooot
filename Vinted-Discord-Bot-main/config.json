@@ -1,0 +1,99 @@
+{
+    "token": "ODk0MjU0MTM1MzM0MDI3Mjk0.GqhKvN.QQB1nDC2lUnTeL_V3We1h_c8yGDLW9s6mO_lUs",
+    "prefix": "$",
+    "status": "",
+    "suburl": {
+        "https://discord.com/api/webhooks/989556005404811275/apz3In6App_hoXJBPUPR3ge_FQOTaDO6Q9yI39T7kqTCE0EOXiLs_lwkMtXSdVAoIoqB": {
+            "url": "$sub",
+            "salon": "\ud83d\udc55\u2014tee-shirt-nike"
+        },
+        "https://discord.com/api/webhooks/989556050732675135/f7N0cFrbSzv3ggSt9prVbw3wN8QLlkAZ5eV8UpkRL--_Zw01EQEokd3uKiMqBWTWZLYa": {
+            "url": "https://www.vinted.fr/vetements?search_text=short%20nike&order=newest_first&catalog[]=15&catalog[]=80",
+            "salon": "\ud83e\ude73\u2014short-nike"
+        },
+        "https://discord.com/api/webhooks/989556081774710785/478ztTvrGHuAJRtmGUyFXWdeXIxIkcMhHqorbG3JO7SSLl4qWEdJvBQTT-U_28iXk6Wn": {
+            "url": "https://www.vinted.fr/vetements?search_text=t+shirt+lacoste",
+            "salon": "\ud83d\udc55\u2014tee-shirt-lacoste"
+        },
+        "https://discord.com/api/webhooks/989556113894699049/aMkmUzQos9g4xlYolteDvwIUd78mLpTFjAzMDHzHdDfeBw_F9NSB9YzNpvhz0TsfS7bA": {
+            "url": "https://www.vinted.fr/vetements?search_text=short%20lacoste&order=newest_first&brand_id[]=304",
+            "salon": "\ud83e\ude73\u2014short-lacoste"
+        },
+        "https://discord.com/api/webhooks/989556144613769237/rSE9X3PbVLoSncUiU9P0op-VDyi37pLZ3ARdkdU47O9O78Fo2OjfXrZwznWsG6Juv4g5": {
+            "url": "https://www.vinted.fr/vetements?search_text=t-shirt%20stussy&order=newest_first",
+            "salon": "\ud83d\udc55\u2014tee-shirt-stussy"
+        },
+        "https://discord.com/api/webhooks/989556186548408371/AnGLcydPtR-AA1aeP168NY67KTzqdpqwZE5UF4EUMR6ldk3L-6Bvz3vXVJHtW6WUu62w": {
+            "url": "https://www.vinted.fr/vetements?search_text=short%20stussy&brand_id[]=441&catalog[]=80&catalog[]=15&order=newest_first",
+            "salon": "\ud83e\ude73\u2014short-stussy"
+        },
+        "https://discord.com/api/webhooks/989556235856642210/tem-0pz3OtaBSVa0FYFJJQoOplbB87IK4KtQv613F0uBc4x0sJdEqXmOJS1-JgfXl4zi": {
+            "url": "https://www.vinted.fr/vetements?search_text=t%20shirt%20trapstar&order=newest_first&brand_id[]=585393",
+            "salon": "\ud83d\udc55\u2014tee-shirt-trapstar"
+        },
+        "https://discord.com/api/webhooks/989556257788661801/NxPBxa5Foqvl4GlGQXQ5WlThLR6wpa0WTZ9QapMuCkiR2u6W4fgFZW23Bx1w8vpx7mdW": {
+            "url": "https://www.vinted.fr/vetements?search_text=short%20trapstar&order=newest_first&brand_id[]=585393",
+            "salon": "\ud83e\ude73\u2014short-trapstar"
+        },
+        "https://discord.com/api/webhooks/989556292030955562/J0TRtkcRFTUssRE3AXMlBXGbNgorPqk7cUJO0XnFn4so6n4wRtcw43ykKH1MftX_NuL3": {
+            "url": "https://www.vinted.fr/vetements?search_text=t%20shirt%20palm%20angels&order=newest_first&brand_id[]=395367",
+            "salon": "\ud83d\udc55\u2014tee-shirt-palm-angeles"
+        },
+        "https://discord.com/api/webhooks/989556325862215731/1OCwnLEXFvvfPUDFFrqyjIjj5yCx1ve7t5EdRvyqWmWEXDMoAGcIdmKNG__GFwctXess": {
+            "url": "https://www.vinted.fr/vetements?search_text=short%20palm%20angels&order=newest_first&brand_id[]=395367",
+            "salon": "\ud83e\ude73\u2014short-palm-angeles"
+        },
+        "https://discord.com/api/webhooks/989556386419605565/ooqqFeYqWKhb69pEMx7x6ZsXquRfh_77LbJ9uJpIdnZLQ3cr2EMgzWWOTUvO1rmvhrY9": {
+            "url": "https://www.vinted.fr/vetements?search_text=casquette+corteiz",
+            "salon": "\ud83e\udde2\u2014casquette-corteiz"
+        },
+        "https://discord.com/api/webhooks/989557157550776391/f_QYXD8hFidgi91V2UHkVrpEwVCPB90CvaET_C28ITHw8igzebnELlvSwkCnOOTFEJQ_": {
+            "url": "https://www.vinted.fr/vetements?search_text=sweat%20nike&search_id=5689598240&order=newest_first",
+            "salon": "\ud83d\udc54\u2014sweat-nike"
+        },
+        "https://discord.com/api/webhooks/989557211883765822/bs7ljnBcseLK1LmRFLtdruv9ApFXuy_Ovv_WdikYCkVo6e9SCYvOFa8Fp0KIG_f0h7jG": {
+            "url": "https://www.vinted.fr/vetements?search_text=jogging%20nike&search_id=5689599790&order=newest_first",
+            "salon": "\ud83d\udc56\u2014jogging-nike"
+        },
+        "https://discord.com/api/webhooks/989557298731024425/STW1dtag44uLaaX6baN68vQXbUcgZXTofXYzJw1L2habXvW7qJcIVqoactRUDI_UHR3t": {
+            "url": "https://www.vinted.fr/vetements?search_text=sweat%20stussy&search_id=5689601689&order=newest_first&brand_id[]=441",
+            "salon": "\ud83d\udc54\u2014sweat-stussy"
+        },
+        "https://discord.com/api/webhooks/989557359275814954/Y9SZ1ohyKXzrIyIppe2h-CdBDbET7O2aYMEaeZ7_zS6NHp8v-YGvMRdjZiuxvP2zXyGr": {
+            "url": "https://www.vinted.fr/vetements?search_text=jogging%20stussy&search_id=5689604232&order=newest_first&brand_id[]=441&time=1655999252",
+            "salon": "\ud83d\udc56\u2014jogging-stussy"
+        },
+        "https://discord.com/api/webhooks/989557444449533983/K6YaTJyV3jmyJa-3kMj3PEeEWtaGisnazpCR-5os7ndq9EPIEqOpcSIVs3i4BZGqgnu2": {
+            "url": "https://www.vinted.fr/vetements?search_text=sweat%20corteiz&search_id=5689605653&order=newest_first&brand_id[]=3036449&brand_id[]=7488898",
+            "salon": "\ud83d\udc54\u2014sweat-corteiz"
+        },
+        "https://discord.com/api/webhooks/989557493032177725/XBFpFwru0TbQeaE-oudLi9CEg1nOssFkLFj22H_HlFsdwE0I1s_dTgO8dBNrLxUfCNLS": {
+            "url": "https://www.vinted.fr/vetements?search_text=jogging%20corteiz&search_id=5689608095&order=newest_first&brand_id[]=3036449&brand_id[]=7488898&time=1655999285",
+            "salon": "\ud83d\udc56\u2014jogging-corteiz"
+        },
+        "https://discord.com/api/webhooks/989557537349177385/NT_KDl62DlfVp3kk8oXOpbNp0OAW6Z4lq8Fdsi3vCXn5H0Dy0gYgEghUY7Xm2BqOW76a": {
+            "url": "https://www.vinted.fr/vetements?search_text=cargo%20corteiz&search_id=5689609373&order=newest_first&brand_id[]=3036449&brand_id[]=7488898&time=1655999296",
+            "salon": "\ud83d\udc56\u2014cargo-corteiz"
+        },
+        "https://discord.com/api/webhooks/989557722036977715/t07v_aDqCnkEVgzbGxla9HGH4GOzBX6srVh3Yo4xqd6muJ25cgDnVDJHntmYcqqkaBkG": {
+            "url": "https://www.vinted.fr/vetements?search_text=jogging%20trapstar&search_id=5689613759&order=newest_first&brand_id[]=585393",
+            "salon": "\ud83d\udc54\u2014jogging-trapstar"
+        },
+        "https://discord.com/api/webhooks/989557814991151105/LOzIVHret1s2NMuQY5onEHkuO6SMlLtGm_D8NU8PrARJI1X0gDxVedKMagJDMY0OHN_O": {
+            "url": "https://www.vinted.fr/vetements?search_text=sweat%20trapstar&search_id=5689617510&order=newest_first&brand_id[]=585393&time=1655999363",
+            "salon": "sweat-trapstar"
+        }
+    },
+    "embed-color-text": "YAML",
+    "embed-color": 16777215,
+    "embed-config": {
+        "prix": "oui",
+        "vendeur": "oui",
+        "avis": "oui",
+        "localisation": "oui",
+        "marque": "oui",
+        "taille": "oui",
+        "couleur": "oui",
+        "etat": "oui"
+    }
+}
